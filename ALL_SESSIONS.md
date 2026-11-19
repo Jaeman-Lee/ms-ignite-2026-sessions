@@ -518,6 +518,7 @@ SEI의 통제 가능한 금융 AI 에이전트 운영
 ### 공식 근거
 
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787854985450001t4D0-1791588247060001CMvR)
+- [Microsoft Events 공식 YouTube](https://www.youtube.com/watch?v=-4U2nwth3ag)
 - [공식 개별 녹화: 05:32–18:32·22:48–33:50](https://medius.microsoft.com/Embed/video-nc/985de043-4269-4ef0-ac38-57119d369789)
 
 ## KEY02
