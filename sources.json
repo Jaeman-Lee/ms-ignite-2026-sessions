@@ -655,6 +655,29 @@
       ],
       "session_url": "https://ignite.microsoft.com/en-US/sessions/1790705089430001luN0-1791911961057001WtJj",
       "path": "sessions/2026-11-19/LABSP830.md"
+    },
+    {
+      "code": "BRK473",
+      "date": "2026-11-19",
+      "title": "금융 에이전트의 실험 권한과 운영 승인",
+      "topic": "평가·보안·통제",
+      "kind": "공식 행사 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856645220001EUhq-1791588268917001CGsN"
+        ],
+        [
+          "공식 행사 다시보기",
+          "https://medius.microsoft.com/Embed/video-nc/5fd1a5a1-f386-4f89-a525-5b5c39952c4f"
+        ],
+        [
+          "State Farm 기업 소개",
+          "https://www.statefarm.com/about-us/company-overview"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856645220001EUhq-1791588268917001CGsN",
+      "path": "sessions/2026-11-19/BRK473.md"
     }
   ],
   "previews": [
@@ -687,12 +710,6 @@
       "date": "2026-11-19",
       "title": "AKS의 오픈웨이트 모델·후속 학습·에이전트",
       "url": "https://ignite.microsoft.com/en-US/sessions/1787856637461001ETKM-1791588350040001CQCY"
-    },
-    {
-      "code": "BRK473",
-      "date": "2026-11-19",
-      "title": "금융 에이전트의 권한·통제",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856645220001EUhq-1791588268917001CGsN"
     },
     {
       "code": "BRK525",

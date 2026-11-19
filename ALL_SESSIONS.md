@@ -1,8 +1,8 @@
 # Microsoft Ignite 2026 · 전체 세션 요약
 
-공식 방송·녹화 기반 25개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
+공식 방송·녹화 기반 26개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
 
-[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830)
+[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473)
 
 ## BRK240
 
@@ -675,3 +675,27 @@ vLLM Semantic Router로 추론 경로 선택하기
 - [발표 슬라이드 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/.deploy/vllm-sr-workshop-intro.pptx)
 - [발표자 과제 해설 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/.deploy/SOLUTION-KEY.md)
 - [실습 라우터 설정 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/.deploy/foundry-cpu/router-config.yaml)
+
+## BRK473
+
+금융 에이전트의 실험 권한과 운영 승인
+
+**현업 실험에는 제한된 권한을 주고, 전사 배포에는 별도 심사와 운영 책임을 둔다.**
+
+2026-11-19 · 공식 행사 녹화 · 평가·보안·통제
+
+### 핵심 내용
+
+- 스테이트 팜(State Farm) | 미국 | 자동차·주택 등 개인과 기업에 보험 서비스를 제공한다. | 엔지니어링 매니저 아주어 도턴(Azsure Dorton)이 관리형 환경을 도입하고 에이전트를 운영에 배포한 자사 사례를 소개했다. 09:50 화면에 2026년 11월 자체 집계 기준 운영 에이전트 52개가 표시됐다.
+- 16:25에는 연결 범위를 제한한 기본 환경에서 현업이 가치를 검증하고, AI 승인 단계를 거쳐 운영으로 승격하는 절차를 설명했다. 22:00 전후 마무리에서 보안·리스크 담당자의 초기 참여와 반복적인 저위험 업무부터 시작할 것을 제안했다.
+- 마이크로소프트(Microsoft Corporation) | 미국 | 업무용 소프트웨어와 클라우드를 제공한다. | 조하르 라즈(Zohar Raz)와 오스틴 라우게슨(Austin Laugesen)이 거버넌스·제품 운영을 설명했다. 33:30 관리형 호스트 화면에서는 사용자 신원에 연결된 데이터 동의를, 40:10 화면에서는 사용자당 구독과 Copilot Credit 사용량 과금을 비교했다.
+
+### 확인 범위
+
+공식 행사 다시보기의 화면과 영어 자막 표본을 확인했다. 52개는 해당 보험사가 발표한 운영 배포 수다. 업무 처리 품질·위험 감소·비용 절감 성과와 기능별 출시 단계는 별도 검증이 필요하다. 공식 YouTube 본편은 확인되지 않았다.
+
+### 공식 근거
+
+- [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856645220001EUhq-1791588268917001CGsN)
+- [공식 행사 다시보기](https://medius.microsoft.com/Embed/video-nc/5fd1a5a1-f386-4f89-a525-5b5c39952c4f)
+- [State Farm 기업 소개](https://www.statefarm.com/about-us/company-overview)
