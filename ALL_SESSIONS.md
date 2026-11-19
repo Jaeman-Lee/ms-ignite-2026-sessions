@@ -1,8 +1,8 @@
 # Microsoft Ignite 2026 · 전체 세션 요약
 
-공식 방송·녹화 기반 25개와 공식 실습서 기반 1개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
+공식 방송·녹화 기반 25개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
 
-[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723)
+[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830)
 
 ## BRK240
 
@@ -648,3 +648,27 @@ AKS 추론 워크로드의 관측·확장·Ray 실습
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856876559001h7CZ-1791906698620001aNJy)
 - [공식 실습서 고정 버전](https://github.com/microsoft/ignite26-LAB723/blob/750f73edddd470a0919eabd91c8b6de32f1f79e3/instructions/README.md)
 - [공식 환경 설명 고정 버전](https://github.com/microsoft/ignite26-LAB723/blob/750f73edddd470a0919eabd91c8b6de32f1f79e3/docs/lab-environment.md)
+
+## LABSP830
+
+vLLM Semantic Router로 추론 경로 선택하기
+
+**하나의 앱 엔드포인트에서 요청을 분류하고 정책 우선순위로 답변 모델을 선택하는 실습이다.**
+
+2026-11-19 · 공식 실습자료 기반 · GPU·추론·비용
+
+### 핵심 내용
+
+- 앱은 vLLM Semantic Router의 `vllm-sr/auto`를 호출한다. 이름표 같은 정확한 신호와 요청의 의미를 반영한 신호를 YAML로 조합해 모델 경로를 고른다.
+- D3 Lite로 추론 필요성을 판단하고, 선택 실습에서는 Vela 3 Fast로 이름·이메일·전화번호의 텍스트 구간을 찾는다. 답변 생성은 라우터가 선택한 별도 모델이 맡는다.
+- `[PRIVATE]`와 의미 기반 판단이 동시에 맞으면 더 높은 우선순위의 정책을 적용한다. 최종 과제는 `[INCIDENT]` 태그와 모호한 요청을 포함한 여섯 가지 입력으로 경로를 확인한다.
+
+### 확인 범위
+
+발표자 공개 노트북과 슬라이드로 실습 절차를 확인했다. 예제에서 D3 Lite는 로컬 CPU에서 실행되며 두 답변 모델은 Azure Foundry에 연결된다. 사내망에 적용하려면 민감 요청이 선택하는 경로의 실제 서빙 주소와 네트워크 정책을 확인해야 한다. 카탈로그에는 녹화 계획이 없다.
+
+### 공식 근거
+
+- [공식 세션](https://ignite.microsoft.com/en-US/sessions/1790705089430001luN0-1791911961057001WtJj)
+- [발표자 노트북 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/route-one-agent-across-two-models-v3.ipynb)
+- [발표 슬라이드 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/.deploy/vllm-sr-workshop-intro.pptx)
