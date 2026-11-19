@@ -670,6 +670,7 @@ vLLM Semantic Router로 추론 경로 선택하기
 ### 공식 근거
 
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1790705089430001luN0-1791911961057001WtJj)
+- [발표자 GitHub 실습 브랜치 (Foundry CPU · D3 Lite)](https://github.com/Mahdi-CV/amd-gpu-workshops/tree/workshop/vllm-sr-route-one-agent-v3-foundry-cpu-d3)
 - [발표자 노트북 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/route-one-agent-across-two-models-v3.ipynb)
 - [발표 슬라이드 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/.deploy/vllm-sr-workshop-intro.pptx)
 - [발표자 과제 해설 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/.deploy/SOLUTION-KEY.md)
