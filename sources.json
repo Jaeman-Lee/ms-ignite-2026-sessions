@@ -572,6 +572,33 @@
       "path": "sessions/2026-11-18/LIVE55.md"
     },
     {
+      "code": "BRK442",
+      "date": "2026-11-19",
+      "title": "Azure Local과 Foundry Local로 구축하는 주권 AI",
+      "topic": "평가·보안·통제",
+      "kind": "공식 녹화·제품 발표",
+      "sources": [
+        [
+          "공식 회차",
+          "https://ignite.microsoft.com/en-US/sessions/1787856640517001EIKl-1791588245037001C6mG"
+        ],
+        [
+          "행사 다시보기: 모델 평가 08:10–11:35 · 역할별 출처 24:00–28:53",
+          "https://medius.microsoft.com/Embed/video-nc/24585be0-7bee-4f5c-93ac-a113bd7a3c14"
+        ],
+        [
+          "Microsoft 제품 발표",
+          "https://techcommunity.microsoft.com/blog/azurearcblog/whats-new-with-sovereign-private-cloud-at-microsoft-ignite-2026/4573886"
+        ],
+        [
+          "Microsoft Learn 요구 사항",
+          "https://learn.microsoft.com/en-us/azure/azure-sovereign-clouds/private/foundry-local/concept-requirements"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856640517001EIKl-1791588245037001C6mG",
+      "path": "sessions/2026-11-19/BRK442.md"
+    },
+    {
       "code": "LAB723",
       "date": "2026-11-19",
       "title": "AKS 추론 워크로드의 관측·확장·Ray 실습",
@@ -625,12 +652,6 @@
       "date": "2026-11-19",
       "title": "AKS의 오픈웨이트 모델·후속 학습·에이전트",
       "url": "https://ignite.microsoft.com/en-US/sessions/1787856637461001ETKM-1791588350040001CQCY"
-    },
-    {
-      "code": "BRK442",
-      "date": "2026-11-19",
-      "title": "Azure Local·Foundry Local 기반 주권 AI",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856640517001EIKl-1791588245037001C6mG"
     },
     {
       "code": "BRK473",

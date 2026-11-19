@@ -2,13 +2,13 @@
 
 공식 자료를 바탕으로 정리한 한국어 세션 노트입니다. 각 문서는 **핵심 3가지 → 확인 범위 → 공식 근거** 순서로 읽을 수 있습니다.
 
-**방송·녹화 기반 요약 24개 + 공식 실습서 정리 1개**를 담았습니다. [한 문서로 모두 읽기](ALL_SESSIONS.md) · [공식 소개만 확보한 12개](PREVIEWS.md)
+**방송·녹화 기반 요약 25개 + 공식 실습서 정리 1개**를 담았습니다. [한 문서로 모두 읽기](ALL_SESSIONS.md) · [공식 소개만 확보한 11개](PREVIEWS.md)
 
 자료 기준: 2026년 11월 19일 PST까지 수집한 기록. 행사 날짜는 샌프란시스코 현지 날짜이며, 제품 제공 단계는 발표·문서 확인 당시 기준입니다.
 
 ## 주제별로 찾기
 
-- **평가·보안·통제**: [BRK240](sessions/2026-11-17/BRK240.md) · [LIVE50](sessions/2026-11-17/LIVE50.md) · [LIVE51](sessions/2026-11-17/LIVE51.md) · [OD1931](sessions/2026-11-17/OD1931.md) · [ODSP2215](sessions/2026-11-17/ODSP2215.md) · [BRKSP610](sessions/2026-11-18/BRKSP610.md) · [LIVE54](sessions/2026-11-18/LIVE54.md)
+- **평가·보안·통제**: [BRK442](sessions/2026-11-19/BRK442.md) · [BRK240](sessions/2026-11-17/BRK240.md) · [LIVE50](sessions/2026-11-17/LIVE50.md) · [LIVE51](sessions/2026-11-17/LIVE51.md) · [OD1931](sessions/2026-11-17/OD1931.md) · [ODSP2215](sessions/2026-11-17/ODSP2215.md) · [BRKSP610](sessions/2026-11-18/BRKSP610.md) · [LIVE54](sessions/2026-11-18/LIVE54.md)
 - **GPU·추론·비용**: [BRK441](sessions/2026-11-17/BRK441.md) · [BRKSP630](sessions/2026-11-17/BRKSP630.md) · [INV643](sessions/2026-11-17/INV643.md) · [LIVE53](sessions/2026-11-17/LIVE53.md) · [ODSP2235](sessions/2026-11-17/ODSP2235.md) · [BRK247](sessions/2026-11-18/BRK247.md) · [LIVE55](sessions/2026-11-18/LIVE55.md) · [LAB723](sessions/2026-11-19/LAB723.md)
 - **업무용 에이전트**: [BRK548](sessions/2026-11-17/BRK548.md) · [INV640](sessions/2026-11-17/INV640.md) · [KEY01](sessions/2026-11-17/KEY01.md) · [LIVE52](sessions/2026-11-17/LIVE52.md)
 - **데이터·검색**: [ODSP2172](sessions/2026-11-17/ODSP2172.md) · [ODSP2244](sessions/2026-11-17/ODSP2244.md) · [THR1014](sessions/2026-11-17/THR1014.md)
@@ -42,6 +42,7 @@
 | 11-18 | [KEY02 · 파트너 키노트: 직원 교육과 데이터 연결](sessions/2026-11-18/KEY02.md) | 직원이 AI를 배우는 일과 기업 데이터를 연결하는 일을 구분해 소개했다. | 공식 녹화·공급사 사례 |
 | 11-18 | [LIVE54 · AI 실험을 운영으로 옮기는 관리와 개발 흐름](sessions/2026-11-18/LIVE54.md) | 에이전트 소유자·감사 기록을 관리하고 코드 변경 결과를 확인하는 사례를 다뤘다. | 공식 방송·제품 발표 |
 | 11-18 | [LIVE55 · 클라우드 AI의 시뮬레이션·격리·업무 비용](sessions/2026-11-18/LIVE55.md) | AI 실행 과정의 계산 자원·격리·병목·사람의 승인을 함께 다뤘다. | 공식 방송·제품 발표 |
+| 11-19 | [BRK442 · Azure Local과 Foundry Local로 구축하는 주권 AI](sessions/2026-11-19/BRK442.md) | 로컬 추론과 검색을 조합하고, 같은 모델에도 업무 역할별로 다른 데이터 출처를 제공한다. | 공식 녹화·제품 발표 |
 | 11-19 | [LAB723 · AKS 추론 워크로드의 관측·확장·Ray 실습](sessions/2026-11-19/LAB723.md) | 배포 뒤 지연·처리량·자원 제한을 관측하고 파드·노드 확장과 분산 작업을 비교하는 실습이다. | 공식 실습서 기반 |
 
 ## 읽는 기준

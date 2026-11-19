@@ -1,8 +1,8 @@
 # Microsoft Ignite 2026 · 전체 세션 요약
 
-공식 방송·녹화 기반 24개와 공식 실습서 기반 1개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
+공식 방송·녹화 기반 25개와 공식 실습서 기반 1개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
 
-[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [LAB723](#lab723)
+[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723)
 
 ## BRK240
 
@@ -599,6 +599,31 @@ AI 실험을 운영으로 옮기는 관리와 개발 흐름
 - [Wayve 공식 기술·협력 설명](https://wayve.ai/press/stellantis-wayve-scale-ai-driver/)
 - [Copilot 공식 발표](https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/)
 - [행사 공식 공용 방송](https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-Live.json)
+
+## BRK442
+
+Azure Local과 Foundry Local로 구축하는 주권 AI
+
+**로컬 추론과 검색을 조합하고, 같은 모델에도 업무 역할별로 다른 데이터 출처를 제공한다.**
+
+2026-11-19 · 공식 녹화·제품 발표 · 평가·보안·통제
+
+### 핵심 내용
+
+- 마이크로소프트(Microsoft Corporation)는 미국의 업무 소프트웨어·클라우드 회사다. Azure Local PM Kushmeen Kambow와 Foundry Local PM Anders Zwartjes가 연결·단절 환경에서 로컬 추론과 검색을 구성하는 방법을 소개했다.
+- 가상 Woodgrove Bank의 문답 다섯 건을 세 모델에 주고 별도 평가 모델로 유사성·완전성·관련성을 비교했다. 같은 모델을 쓰는 위험 조사 담당자용과 창구 담당자용 에이전트에는 서로 다른 출처를 연결했다. 조사 화면에서는 참조한 자료를 답변 옆에서 확인할 수 있었다.
+- 행사 기준 모델 카탈로그·추론·에이전트형 검색과 GitHub Enterprise Local은 정식 제공으로 소개했다. Agent Service와 Guardrails는 Preview였고, Azure Local의 NVIDIA HGX B300 기반 대규모 추론 지원은 2027년 상반기 Preview를 목표로 발표했다.
+
+### 확인 범위
+
+가상의 은행 시연과 제품 발표다. 실제 은행의 도입·권한 검증이나 동일 품질에서의 지연·처리량·비용은 공개 설명에서 확인되지 않았다. 영상은 Microsoft 행사 다시보기다.
+
+### 공식 근거
+
+- [공식 회차](https://ignite.microsoft.com/en-US/sessions/1787856640517001EIKl-1791588245037001C6mG)
+- [행사 다시보기: 모델 평가 08:10–11:35 · 역할별 출처 24:00–28:53](https://medius.microsoft.com/Embed/video-nc/24585be0-7bee-4f5c-93ac-a113bd7a3c14)
+- [Microsoft 제품 발표](https://techcommunity.microsoft.com/blog/azurearcblog/whats-new-with-sovereign-private-cloud-at-microsoft-ignite-2026/4573886)
+- [Microsoft Learn 요구 사항](https://learn.microsoft.com/en-us/azure/azure-sovereign-clouds/private/foundry-local/concept-requirements)
 
 ## LAB723
 
