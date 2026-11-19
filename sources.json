@@ -1,0 +1,643 @@
+{
+  "title": "Microsoft Ignite 2026 session summaries",
+  "language": "ko",
+  "evidence_cutoff": "2026-11-18 PST",
+  "sessions": [
+    {
+      "code": "BRK240",
+      "date": "2026-11-17",
+      "title": "Foundry 에이전트의 추적·평가·개선",
+      "topic": "평가·보안·통제",
+      "kind": "공식 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856609563001Ep0b-1791588070636001Coui"
+        ],
+        [
+          "공식 녹화: 30:00·39:30·43:50",
+          "https://medius.microsoft.com/Embed/video-nc/350e7c06-2901-4dbc-9559-2dd70e8999c1"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856609563001Ep0b-1791588070636001Coui",
+      "path": "sessions/2026-11-17/BRK240.md"
+    },
+    {
+      "code": "BRK441",
+      "date": "2026-11-17",
+      "title": "Azure Maia 추론 인프라",
+      "topic": "GPU·추론·비용",
+      "kind": "공식 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856640352001EpXn-1791588117452001CP9h"
+        ],
+        [
+          "공식 녹화",
+          "https://medius.microsoft.com/Embed/video-nc/29479dec-c531-4dae-a112-74a383c37766"
+        ],
+        [
+          "Azure 공식 아키텍처 설명",
+          "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856640352001EpXn-1791588117452001CP9h",
+      "path": "sessions/2026-11-17/BRK441.md"
+    },
+    {
+      "code": "BRK548",
+      "date": "2026-11-17",
+      "title": "Replit 개발 에이전트의 운영 구조",
+      "topic": "업무용 에이전트",
+      "kind": "공식 녹화·제품 발표",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856656693001E0cK-1791588221349001CeSB"
+        ],
+        [
+          "공식 녹화",
+          "https://medius.microsoft.com/Embed/video-nc/43ac3abc-86db-47e6-abf7-d7da3c9d7624"
+        ],
+        [
+          "Replit 공식 출시 안내",
+          "https://replit.com/blog/build-where-your-business-works-replit-at-microsoft-ignite"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856656693001E0cK-1791588221349001CeSB",
+      "path": "sessions/2026-11-17/BRK548.md"
+    },
+    {
+      "code": "BRKSP630",
+      "date": "2026-11-17",
+      "title": "Azure·NVIDIA 가속 컴퓨팅과 GPU SQL",
+      "topic": "GPU·추론·비용",
+      "kind": "공식 녹화·제품 문서",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787854985876001tT18-1791588339892001ChGq"
+        ],
+        [
+          "Microsoft Events 공식 영상",
+          "https://www.youtube.com/watch?v=g2wSshatJ90"
+        ],
+        [
+          "행사 개별 녹화: 23:15–25:15 SQL 시연",
+          "https://medius.microsoft.com/Embed/video-nc/266c0933-b786-4fac-b5cb-38d6d6be2502"
+        ],
+        [
+          "Fabric 기능 문서",
+          "https://learn.microsoft.com/en-us/fabric/data-warehouse/query-acceleration"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787854985876001tT18-1791588339892001ChGq",
+      "path": "sessions/2026-11-17/BRKSP630.md"
+    },
+    {
+      "code": "INV640",
+      "date": "2026-11-17",
+      "title": "Copilot 업무 위임과 조직의 비용 통제",
+      "topic": "업무용 에이전트",
+      "kind": "공식 방송·제품 발표",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856657745001EewR-1789751958676001dVT9"
+        ],
+        [
+          "Copilot 공식 발표",
+          "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/"
+        ],
+        [
+          "행사 공식 공용 방송",
+          "https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-Live.json"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856657745001EewR-1789751958676001dVT9",
+      "path": "sessions/2026-11-17/INV640.md"
+    },
+    {
+      "code": "INV643",
+      "date": "2026-11-17",
+      "title": "클라우드부터 로컬 PC까지의 AI 실행",
+      "topic": "GPU·추론·비용",
+      "kind": "공식 방송·제품 발표",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856658187001Etji-1789751959279001dn4k"
+        ],
+        [
+          "Windows 공식 발표",
+          "https://blogs.windows.com/windowsexperience/2026/11/17/microsoft-ignite-2026-building-windows-for-the-next-era-of-work/"
+        ],
+        [
+          "행사 공식 공용 방송",
+          "https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-Live.json"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856658187001Etji-1789751959279001dn4k",
+      "path": "sessions/2026-11-17/INV643.md"
+    },
+    {
+      "code": "KEY01",
+      "date": "2026-11-17",
+      "title": "개막 키노트: AI에 업무를 위임하는 기업",
+      "topic": "업무용 에이전트",
+      "kind": "공식 방송·발표",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856726055001EpP1-1789751960282001d6eI"
+        ],
+        [
+          "Microsoft Events 공식 영상",
+          "https://www.youtube.com/watch?v=JaTSaJioHV8"
+        ],
+        [
+          "BNY 공식 파일럿 발표",
+          "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-and-microsoft-complete-first-agentic-negotiation-of-a-us-treasury-trade.html"
+        ],
+        [
+          "Microsoft 공식 키노트 글",
+          "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856726055001EpP1-1789751960282001d6eI",
+      "path": "sessions/2026-11-17/KEY01.md"
+    },
+    {
+      "code": "LIVE50",
+      "date": "2026-11-17",
+      "title": "Brad Smith의 AI 신뢰·통제 인터뷰",
+      "topic": "평가·보안·통제",
+      "kind": "공식 방송 표본",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1789669856931001RyDg-1789751969782001dMsq"
+        ],
+        [
+          "행사 공식 공용 방송",
+          "https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-Live.json"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1789669856931001RyDg-1789751969782001dMsq",
+      "path": "sessions/2026-11-17/LIVE50.md"
+    },
+    {
+      "code": "LIVE51",
+      "date": "2026-11-17",
+      "title": "드문 실패 사례와 반복 평가",
+      "topic": "평가·보안·통제",
+      "kind": "공식 방송 표본",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1792114887215001c2Et-1792435863319001e4AW"
+        ],
+        [
+          "행사 공식 공용 방송",
+          "https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-Live.json"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1792114887215001c2Et-1792435863319001e4AW",
+      "path": "sessions/2026-11-17/LIVE51.md"
+    },
+    {
+      "code": "LIVE52",
+      "date": "2026-11-17",
+      "title": "Copilot Autopilot의 업무 수행과 관리자 제어",
+      "topic": "업무용 에이전트",
+      "kind": "공식 방송 표본",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1792115043441001qtQw-1792435912618001Tbbz"
+        ],
+        [
+          "행사 공식 공용 방송",
+          "https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-Live.json"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1792115043441001qtQw-1792435912618001Tbbz",
+      "path": "sessions/2026-11-17/LIVE52.md"
+    },
+    {
+      "code": "LIVE53",
+      "date": "2026-11-17",
+      "title": "AI FinOps: 비용 추적과 예산 관리",
+      "topic": "GPU·추론·비용",
+      "kind": "공식 방송·제품 발표",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1792115078702001qXwC-1792435947655001FpN5"
+        ],
+        [
+          "Microsoft FinOps 공식 발표",
+          "https://techcommunity.microsoft.com/blog/finopsblog/ai-for-finops-bringing-the-cost-answer-to-where-decisions-are-made/4571510"
+        ],
+        [
+          "행사 공식 공용 방송",
+          "https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-Live.json"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1792115078702001qXwC-1792435947655001FpN5",
+      "path": "sessions/2026-11-17/LIVE53.md"
+    },
+    {
+      "code": "OD1931",
+      "date": "2026-11-17",
+      "title": "Agent Rewind와 에이전트 변경 복구",
+      "topic": "평가·보안·통제",
+      "kind": "공식 녹화·제품 발표",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1793980351446001iZb0-AAAAAAAAAAAAAAAAAAAA"
+        ],
+        [
+          "공식 녹화: 04:30 활동 타임라인",
+          "https://medius.microsoft.com/Embed/video-nc/82341d09-657d-42df-9821-6829cf439f40"
+        ],
+        [
+          "SharePoint 공식 발표",
+          "https://techcommunity.microsoft.com/blog/spblog/microsoft-365-copilot-and-ai-agent-readiness-and-resiliency-with-sharepoint-cont/4573034"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1793980351446001iZb0-AAAAAAAAAAAAAAAAAAAA",
+      "path": "sessions/2026-11-17/OD1931.md"
+    },
+    {
+      "code": "ODSP2172",
+      "date": "2026-11-17",
+      "title": "Instacart 광고 시스템의 실시간 데이터 저장소",
+      "topic": "데이터·검색",
+      "kind": "공식 파트너 녹화·공급사 사례",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787855000923001tdVj-AAAAAAAAAAAAAAAAAAAA"
+        ],
+        [
+          "공식 녹화: 03:07–04:12",
+          "https://medius.microsoft.com/embed/video-nc/0e89d91f-4b2f-4e9e-beeb-008a2fdf7bd2"
+        ],
+        [
+          "Dragonfly 기술 사례",
+          "https://www.dragonflydb.io/blog/how-instacart-achieved-50-better-performance-with-70-fewer-nodes"
+        ],
+        [
+          "노드 수 비교 출처",
+          "https://www.dragonflydb.io/events/growing-pains-at-ai-speed"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787855000923001tdVj-AAAAAAAAAAAAAAAAAAAA",
+      "path": "sessions/2026-11-17/ODSP2172.md"
+    },
+    {
+      "code": "ODSP2215",
+      "date": "2026-11-17",
+      "title": "SharePoint 에이전트의 권한·소유자·활동 관리",
+      "topic": "평가·보안·통제",
+      "kind": "공식 파트너 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787855005459001tYDf-AAAAAAAAAAAAAAAAAAAA"
+        ],
+        [
+          "공식 녹화: 08:20–20:55",
+          "https://medius.microsoft.com/embed/video-nc/81e57346-6efb-4ab9-b9e6-29797b424672"
+        ],
+        [
+          "Agent 365 공식 안내",
+          "https://techcommunity.microsoft.com/blog/agent-365-blog/whats-new-in-microsoft-agent-365-ignite-2026/4571753"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787855005459001tYDf-AAAAAAAAAAAAAAAAAAAA",
+      "path": "sessions/2026-11-17/ODSP2215.md"
+    },
+    {
+      "code": "ODSP2235",
+      "date": "2026-11-17",
+      "title": "vLLM·Ray Serve 기반 코딩 모델 서빙",
+      "topic": "GPU·추론·비용",
+      "kind": "공식 파트너 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787855007581001tVQQ-AAAAAAAAAAAAAAAAAAAA"
+        ],
+        [
+          "공식 녹화: 01:03–02:00·03:03–05:28·10:35",
+          "https://medius.microsoft.com/embed/video-nc/402b9fa2-5ae7-4a44-b953-f9c086399f19"
+        ],
+        [
+          "Anyscale on Azure GA 발표",
+          "https://techcommunity.microsoft.com/blog/appsonazureblog/anyscale-on-azure-is-now-generally-available/4562547"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787855007581001tVQQ-AAAAAAAAAAAAAAAAAAAA",
+      "path": "sessions/2026-11-17/ODSP2235.md"
+    },
+    {
+      "code": "ODSP2244",
+      "date": "2026-11-17",
+      "title": "VAST의 Azure 데이터 저장·원격 캐시 구조",
+      "topic": "데이터·검색",
+      "kind": "공식 파트너 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1788986932031001usBa-AAAAAAAAAAAAAAAAAAAA"
+        ],
+        [
+          "공식 녹화: 02:00–05:06·08:18–09:35·11:35–14:10",
+          "https://medius.microsoft.com/embed/video-nc/4e4fae49-77ef-48b1-9483-b1a975babdf3"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1788986932031001usBa-AAAAAAAAAAAAAAAAAAAA",
+      "path": "sessions/2026-11-17/ODSP2244.md"
+    },
+    {
+      "code": "THR1014",
+      "date": "2026-11-17",
+      "title": "Foundry IQ의 검색·데이터 권한 연결",
+      "topic": "데이터·검색",
+      "kind": "공식 녹화·기술 문서",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856599957001EPtN-1791588257351001CeAf"
+        ],
+        [
+          "공식 녹화: 08:00–09:59·14:30–17:59",
+          "https://medius.microsoft.com/Embed/video-nc/6b7b60d8-8e71-4259-8b9c-03821272c760"
+        ],
+        [
+          "Foundry IQ 공식 문서",
+          "https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what-is-foundry-iq"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856599957001EPtN-1791588257351001CeAf",
+      "path": "sessions/2026-11-17/THR1014.md"
+    },
+    {
+      "code": "BRK247",
+      "date": "2026-11-18",
+      "title": "토큰 경제성: 쓸 만한 답변 한 건의 비용",
+      "topic": "GPU·추론·비용",
+      "kind": "공식 녹화·제품 발표",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856610647001ED9l-1791588131979001CbhB"
+        ],
+        [
+          "Microsoft Events 공식 영상",
+          "https://www.youtube.com/watch?v=-vWly99DJNY"
+        ],
+        [
+          "공식 개별 녹화",
+          "https://medius.microsoft.com/Embed/video-nc/67297ad2-a05f-44b5-96dd-3c742107e1e0"
+        ],
+        [
+          "Foundry FinOps 공식 발표",
+          "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/finops-in-microsoft-foundry-see-your-token-spend-hit-your-quality-bar-for-less-a/4570010"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856610647001ED9l-1791588131979001CbhB",
+      "path": "sessions/2026-11-18/BRK247.md"
+    },
+    {
+      "code": "BRK533",
+      "date": "2026-11-18",
+      "title": "AI 투자 성과와 조직의 운영 방식",
+      "topic": "도입·조직",
+      "kind": "공식 녹화·조사 발표",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856654440001Edwg-1791588197643001CkJf"
+        ],
+        [
+          "Microsoft Events 공식 영상",
+          "https://www.youtube.com/watch?v=VTENQDpJY9A"
+        ],
+        [
+          "공식 개별 녹화",
+          "https://medius.microsoft.com/Embed/video-nc/461883b6-12e0-4b00-8f46-2a731feaeeb3"
+        ],
+        [
+          "공동 연구 공식 소개",
+          "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856654440001Edwg-1791588197643001CkJf",
+      "path": "sessions/2026-11-18/BRK533.md"
+    },
+    {
+      "code": "BRKSP610",
+      "date": "2026-11-18",
+      "title": "SEI의 통제 가능한 금융 AI 에이전트 운영",
+      "topic": "평가·보안·통제",
+      "kind": "공식 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787854985450001t4D0-1791588247060001CMvR"
+        ],
+        [
+          "공식 개별 녹화: 05:32–18:32·22:48–33:50",
+          "https://medius.microsoft.com/Embed/video-nc/985de043-4269-4ef0-ac38-57119d369789"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787854985450001t4D0-1791588247060001CMvR",
+      "path": "sessions/2026-11-18/BRKSP610.md"
+    },
+    {
+      "code": "KEY02",
+      "date": "2026-11-18",
+      "title": "파트너 키노트: 직원 교육과 데이터 연결",
+      "topic": "도입·조직",
+      "kind": "공식 녹화·공급사 사례",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856726366001EV17-1789751960677001d6j0"
+        ],
+        [
+          "공식 다시보기",
+          "https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-InstaVOD-Partner.json"
+        ],
+        [
+          "Quadra 공급사 사례",
+          "https://marketplace.microsoft.com/en-us/product/quadra_systems.quadra_manufacturing_accelerator_ms_fabric"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856726366001EV17-1789751960677001d6j0",
+      "path": "sessions/2026-11-18/KEY02.md"
+    },
+    {
+      "code": "LIVE54",
+      "date": "2026-11-18",
+      "title": "AI 실험을 운영으로 옮기는 관리와 개발 흐름",
+      "topic": "평가·보안·통제",
+      "kind": "공식 방송·제품 발표",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1792115124814001u9y2-1792435994054001eau4"
+        ],
+        [
+          "GitHub Copilot 앱 공식 발표",
+          "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases/"
+        ],
+        [
+          "Fusion 공식 발표",
+          "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models/"
+        ],
+        [
+          "행사 공식 공용 방송",
+          "https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-Live.json"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1792115124814001u9y2-1792435994054001eau4",
+      "path": "sessions/2026-11-18/LIVE54.md"
+    },
+    {
+      "code": "LIVE55",
+      "date": "2026-11-18",
+      "title": "클라우드 AI의 시뮬레이션·격리·업무 비용",
+      "topic": "GPU·추론·비용",
+      "kind": "공식 방송·제품 발표",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1792115161977001lkVG-1792436025385001wCLr"
+        ],
+        [
+          "Wayve 공식 기술·협력 설명",
+          "https://wayve.ai/press/stellantis-wayve-scale-ai-driver/"
+        ],
+        [
+          "Copilot 공식 발표",
+          "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/"
+        ],
+        [
+          "행사 공식 공용 방송",
+          "https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-Live.json"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1792115161977001lkVG-1792436025385001wCLr",
+      "path": "sessions/2026-11-18/LIVE55.md"
+    },
+    {
+      "code": "LAB723",
+      "date": "2026-11-19",
+      "title": "AKS 추론 워크로드의 관측·확장·Ray 실습",
+      "topic": "GPU·추론·비용",
+      "kind": "공식 실습서 기반",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856876559001h7CZ-1791906698620001aNJy"
+        ],
+        [
+          "공식 실습서 고정 버전",
+          "https://github.com/microsoft/ignite26-LAB723/blob/750f73edddd470a0919eabd91c8b6de32f1f79e3/instructions/README.md"
+        ],
+        [
+          "공식 환경 설명 고정 버전",
+          "https://github.com/microsoft/ignite26-LAB723/blob/750f73edddd470a0919eabd91c8b6de32f1f79e3/docs/lab-environment.md"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856876559001h7CZ-1791906698620001aNJy",
+      "path": "sessions/2026-11-19/LAB723.md"
+    }
+  ],
+  "previews": [
+    {
+      "code": "BRK272",
+      "date": "2026-11-18",
+      "title": "브라데스코의 AI 기반 시스템 현대화",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856614396001ENAG-1791588288203001CJ3J"
+    },
+    {
+      "code": "LABSP830",
+      "date": "2026-11-18",
+      "title": "GPU·vLLM Semantic Router 실습",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1790705089430001luN0-1791911931366001pMrQ"
+    },
+    {
+      "code": "THR883",
+      "date": "2026-11-18",
+      "title": "에이전트로 DB 변경 검토·배포",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856579719001EEoe-1791845862597001MYyl"
+    },
+    {
+      "code": "BRK260",
+      "date": "2026-11-19",
+      "title": "AI 사용료와 업무 성과 비교",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856612609001ExWS-1791588098847001C5fK"
+    },
+    {
+      "code": "BRK368",
+      "date": "2026-11-19",
+      "title": "운영 중인 PostgreSQL 여러 대 관리",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856629108001E3Up-1791588323549001CZ65"
+    },
+    {
+      "code": "BRK422",
+      "date": "2026-11-19",
+      "title": "AKS의 오픈웨이트 모델·후속 학습·에이전트",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856637461001ETKM-1791588350040001CQCY"
+    },
+    {
+      "code": "BRK442",
+      "date": "2026-11-19",
+      "title": "Azure Local·Foundry Local 기반 주권 AI",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856640517001EIKl-1791588245037001C6mG"
+    },
+    {
+      "code": "BRK473",
+      "date": "2026-11-19",
+      "title": "금융 에이전트의 권한·통제",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856645220001EUhq-1791588268917001CGsN"
+    },
+    {
+      "code": "BRK525",
+      "date": "2026-11-19",
+      "title": "금융 리서치·리스크 에이전트",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856653112001EXqY-1791588307345001C7zd"
+    },
+    {
+      "code": "LABSP833",
+      "date": "2026-11-19",
+      "title": "AMD 로컬 AI 에이전트 실습",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1790705299182001YkwU-1791912134700001kpH2"
+    },
+    {
+      "code": "LABSP842",
+      "date": "2026-11-19",
+      "title": "NeMo Switchyard 모델 라우팅 실습",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1790705492563001fJgg-1793034421191001mTOZ"
+    },
+    {
+      "code": "THR882",
+      "date": "2026-11-19",
+      "title": "DB 튜닝과 복구에 AI 적용",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856579574001Ettf-1791588274282001CUNE"
+    },
+    {
+      "code": "BRK443",
+      "date": "2026-11-20",
+      "title": "민감한 AI 모델·데이터 보호",
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856640669001EqlK-1791814917579001CtBK"
+    }
+  ]
+}
