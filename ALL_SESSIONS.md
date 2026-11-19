@@ -1,8 +1,8 @@
 # Microsoft Ignite 2026 · 전체 세션 요약
 
-공식 방송·녹화 기반 23개와 공식 실습서 기반 1개를 한 문서로 모았습니다. 2026년 11월 18일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
+공식 방송·녹화 기반 24개와 공식 실습서 기반 1개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
 
-[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [LAB723](#lab723)
+[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [LAB723](#lab723)
 
 ## BRK240
 
@@ -447,6 +447,31 @@ Foundry IQ의 검색·데이터 권한 연결
 - [공식 개별 녹화](https://medius.microsoft.com/Embed/video-nc/67297ad2-a05f-44b5-96dd-3c742107e1e0)
 - [Foundry FinOps 공식 발표](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/finops-in-microsoft-foundry-see-your-token-spend-hit-your-quality-bar-for-less-a/4570010)
 
+## BRK272
+
+브라데스코의 AI 기반 시스템 현대화
+
+**운영 서비스의 의존관계를 먼저 파악하고, 함께 이관할 서비스의 명세와 구현을 에이전트로 지원했다.**
+
+2026-11-18 · 공식 녹화·시연 · 도입·조직
+
+### 핵심 내용
+
+- 펠리피 페르난지스 두스 헤이스(Felipe Fernandes dos Reis)는 배포 설정, 관측 데이터, 서비스 목록과 코드에서 호출·공유 데이터·담당팀을 찾고 함께 이관할 서비스를 묶는 과정을 설명했다. 브라데스코(Banco Bradesco S.A.)는 브라질에서 개인과 기업에 금융 서비스를 제공하는 은행이다.
+- 브루누 보르지스(Bruno Borges)는 GitHub Copilot으로 재무상담 예약 예제의 의존성을 평가하고 Java 8에서 21로 수정한 브랜치를 실행했다. 마이크로소프트(Microsoft Corporation)는 미국의 업무 소프트웨어·클라우드 회사이며 이 시연을 맡았다.
+- 발표는 한 운영 서비스를 은행 표준에 맞추는 명세와 구현에 수동 추정 960분, 에이전트 사용 시 약 33분 또는 44분이 걸렸다고 비교했다. 에이전트의 두 결과에는 명세 25분이 포함된다.
+
+### 확인 범위
+
+비교는 발표자가 제시한 운영 서비스 한 건의 사례다. 수동 기준은 추정치이고, 검수·승인·배포까지 걸린 시간과 반복 표본 수는 공개 설명에서 확인할 수 없었다. 상담 예약 시연에는 실제 데이터베이스를 연결하지 않았다.
+
+### 공식 근거
+
+- [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856614396001ENAG-1791588288203001CJ3J)
+- [Microsoft Events 공식 영상](https://www.youtube.com/watch?v=Ztn208_5jpI)
+- [행사 개별 녹화: 의존관계 11:30–17:50·시연 19:20–26:30·시간 비교 32:25–33:18](https://medius.microsoft.com/Embed/video-nc/bc0ce035-800d-4aa1-be94-5441b68c8714)
+- [브라데스코 공시](https://www.sec.gov/Archives/edgar/data/1160330/000129281426004996/bbdifrs3q26_6k.htm)
+
 ## BRK533
 
 AI 투자 성과와 조직의 운영 방식
@@ -517,6 +542,7 @@ SEI의 통제 가능한 금융 AI 에이전트 운영
 
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856726366001EV17-1789751960677001d6j0)
 - [공식 다시보기](https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-InstaVOD-Partner.json)
+- [Microsoft Events 공식 YouTube](https://www.youtube.com/watch?v=Oe8nJV3yXtk)
 - [Quadra 공급사 사례](https://marketplace.microsoft.com/en-us/product/quadra_systems.quadra_manufacturing_accelerator_ms_fabric)
 
 ## LIVE54

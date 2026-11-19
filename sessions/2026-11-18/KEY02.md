@@ -18,6 +18,7 @@
 
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856726366001EV17-1789751960677001d6j0)
 - [공식 다시보기](https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-InstaVOD-Partner.json)
+- [Microsoft Events 공식 YouTube](https://www.youtube.com/watch?v=Oe8nJV3yXtk)
 - [Quadra 공급사 사례](https://marketplace.microsoft.com/en-us/product/quadra_systems.quadra_manufacturing_accelerator_ms_fabric)
 
 [전체 세션 목록](../../README.md)

@@ -1,7 +1,7 @@
 {
   "title": "Microsoft Ignite 2026 session summaries",
   "language": "ko",
-  "evidence_cutoff": "2026-11-18 PST",
+  "evidence_cutoff": "2026-11-19 PST",
   "sessions": [
     {
       "code": "BRK240",
@@ -414,6 +414,33 @@
       "path": "sessions/2026-11-18/BRK247.md"
     },
     {
+      "code": "BRK272",
+      "date": "2026-11-18",
+      "title": "브라데스코의 AI 기반 시스템 현대화",
+      "topic": "도입·조직",
+      "kind": "공식 녹화·시연",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856614396001ENAG-1791588288203001CJ3J"
+        ],
+        [
+          "Microsoft Events 공식 영상",
+          "https://www.youtube.com/watch?v=Ztn208_5jpI"
+        ],
+        [
+          "행사 개별 녹화: 의존관계 11:30–17:50·시연 19:20–26:30·시간 비교 32:25–33:18",
+          "https://medius.microsoft.com/Embed/video-nc/bc0ce035-800d-4aa1-be94-5441b68c8714"
+        ],
+        [
+          "브라데스코 공시",
+          "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004996/bbdifrs3q26_6k.htm"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856614396001ENAG-1791588288203001CJ3J",
+      "path": "sessions/2026-11-18/BRK272.md"
+    },
+    {
       "code": "BRK533",
       "date": "2026-11-18",
       "title": "AI 투자 성과와 조직의 운영 방식",
@@ -473,6 +500,10 @@
         [
           "공식 다시보기",
           "https://mediastream.microsoft.com/events/players/live/mvp/player.html?path=/events/2026/2611/O2V6/player/json/Config-O2V6-InstaVOD-Partner.json"
+        ],
+        [
+          "Microsoft Events 공식 YouTube",
+          "https://www.youtube.com/watch?v=Oe8nJV3yXtk"
         ],
         [
           "Quadra 공급사 사례",
@@ -561,12 +592,6 @@
     }
   ],
   "previews": [
-    {
-      "code": "BRK272",
-      "date": "2026-11-18",
-      "title": "브라데스코의 AI 기반 시스템 현대화",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856614396001ENAG-1791588288203001CJ3J"
-    },
     {
       "code": "LABSP830",
       "date": "2026-11-18",
