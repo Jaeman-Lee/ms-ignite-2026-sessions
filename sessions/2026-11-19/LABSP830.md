@@ -14,6 +14,8 @@
 
 발표자 공개 노트북과 슬라이드로 실습 절차를 확인했다. 예제에서 D3 Lite는 로컬 CPU에서 실행되며 두 답변 모델은 Azure Foundry에 연결된다. 사내망에 적용하려면 민감 요청이 선택하는 경로의 실제 서빙 주소와 네트워크 정책을 확인해야 한다. 노트북의 미리보기 도우미는 대시보드 기록을 위해 실제 짧은 생성 요청도 따로 보낸다. 카탈로그에는 녹화 계획이 없다.
 
+발표자 저장소의 별도 금융 개인정보 과제 설계는 가상의 장부를 사용한다. 외부 처리는 공개 등급으로 분류된 집계가 민감 표식과 개인정보 검사를 통과할 때만 허용한다. 원자료와 이전 대화에 민감 정보가 담긴 요청은 내부에 남기고, 실제 외부 전송 건수로 정책을 검증하도록 제안한다. 이 문서는 과제 설계안이며 현장 실행·실금융 데이터 검증 결과는 확인되지 않았다.
+
 ## 공식 근거
 
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1790705089430001luN0-1791911961057001WtJj)
@@ -22,5 +24,6 @@
 - [발표 슬라이드 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/.deploy/vllm-sr-workshop-intro.pptx)
 - [발표자 과제 해설 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/.deploy/SOLUTION-KEY.md)
 - [실습 라우터 설정 고정 버전](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/.deploy/foundry-cpu/router-config.yaml)
+- [별도 금융 개인정보 과제 설계](https://github.com/Mahdi-CV/amd-gpu-workshops/blob/51dc74ee2bee9fe35e1335716b03b564560d7e74/notebooks/vllm-sr-route-one-agent-v3/.deploy/FINANCIAL-PRIVACY-CHALLENGE-PLAN.md)
 
 [전체 세션 목록](../../README.md)
