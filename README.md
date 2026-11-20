@@ -2,14 +2,14 @@
 
 공식 자료를 바탕으로 정리한 한국어 세션 노트입니다. 각 문서는 **핵심 3가지 → 확인 범위 → 공식 근거** 순서로 읽을 수 있습니다.
 
-**방송·녹화 기반 요약 30개 + 공식 실습자료 정리 2개**를 담았습니다. [한 문서로 모두 읽기](ALL_SESSIONS.md) · [공식 소개 7개](PREVIEWS.md)
+**방송·녹화 기반 요약 32개 + 공식 실습자료 정리 2개**를 담았습니다. [한 문서로 모두 읽기](ALL_SESSIONS.md) · [공식 소개 5개](PREVIEWS.md)
 
-자료 기준: 2026년 11월 19일 PST까지 수집한 기록. 행사 날짜는 샌프란시스코 현지 날짜이며, 제품 제공 단계는 발표·문서 확인 당시 기준입니다.
+자료 기준: 2026년 11월 20일 PST까지 수집한 기록. 행사 날짜는 샌프란시스코 현지 날짜이며, 제품 제공 단계는 발표·문서 확인 당시 기준입니다.
 
 ## 주제별로 찾기
 
 - **평가·보안·통제**: [BRK473](sessions/2026-11-19/BRK473.md) · [BRK525](sessions/2026-11-19/BRK525.md) · [BRK442](sessions/2026-11-19/BRK442.md) · [BRK240](sessions/2026-11-17/BRK240.md) · [LIVE50](sessions/2026-11-17/LIVE50.md) · [LIVE51](sessions/2026-11-17/LIVE51.md) · [OD1931](sessions/2026-11-17/OD1931.md) · [ODSP2215](sessions/2026-11-17/ODSP2215.md) · [BRKSP610](sessions/2026-11-18/BRKSP610.md) · [LIVE54](sessions/2026-11-18/LIVE54.md)
-- **GPU·추론·비용**: [BRK441](sessions/2026-11-17/BRK441.md) · [BRKSP630](sessions/2026-11-17/BRKSP630.md) · [INV643](sessions/2026-11-17/INV643.md) · [LIVE53](sessions/2026-11-17/LIVE53.md) · [ODSP2235](sessions/2026-11-17/ODSP2235.md) · [BRK247](sessions/2026-11-18/BRK247.md) · [LIVE55](sessions/2026-11-18/LIVE55.md) · [LAB723](sessions/2026-11-19/LAB723.md) · [LABSP830](sessions/2026-11-19/LABSP830.md)
+- **GPU·추론·비용**: [BRK441](sessions/2026-11-17/BRK441.md) · [BRKSP630](sessions/2026-11-17/BRKSP630.md) · [INV643](sessions/2026-11-17/INV643.md) · [LIVE53](sessions/2026-11-17/LIVE53.md) · [ODSP2235](sessions/2026-11-17/ODSP2235.md) · [BRK247](sessions/2026-11-18/BRK247.md) · [LIVE55](sessions/2026-11-18/LIVE55.md) · [LAB723](sessions/2026-11-19/LAB723.md) · [LABSP830](sessions/2026-11-19/LABSP830.md) · [BRK422](sessions/2026-11-19/BRK422.md) · [BRK260](sessions/2026-11-19/BRK260.md)
 - **업무용 에이전트**: [BRK548](sessions/2026-11-17/BRK548.md) · [INV640](sessions/2026-11-17/INV640.md) · [KEY01](sessions/2026-11-17/KEY01.md) · [LIVE52](sessions/2026-11-17/LIVE52.md)
 - **데이터·검색**: [ODSP2172](sessions/2026-11-17/ODSP2172.md) · [ODSP2244](sessions/2026-11-17/ODSP2244.md) · [THR1014](sessions/2026-11-17/THR1014.md)
 - **도입·조직**: [BRK272](sessions/2026-11-18/BRK272.md) · [BRK533](sessions/2026-11-18/BRK533.md) · [KEY02](sessions/2026-11-18/KEY02.md) · [THR945](sessions/2026-11-19/THR945.md)
@@ -50,6 +50,8 @@
 | 11-19 | [THR945 · AI 교육의 효과를 실제 업무에서 확인하기](sessions/2026-11-19/THR945.md) | 직원이 자주 하는 일 하나를 고르고, 교육 뒤 그 일이 어떻게 달라졌는지 같은 지표로 확인한다. | 공식 녹화·연구 보고서 |
 | 11-19 | [LAB723 · AKS 추론 워크로드의 관측·확장·Ray 실습](sessions/2026-11-19/LAB723.md) | 배포 뒤 지연·처리량·자원 제한을 관측하고 파드·노드 확장과 분산 작업을 비교하는 실습이다. | 공식 실습서 기반 |
 | 11-19 | [LABSP830 · vLLM Semantic Router로 추론 경로 선택하기](sessions/2026-11-19/LABSP830.md) | 하나의 앱 엔드포인트에서 요청을 분류하고 정책 우선순위로 답변 모델을 선택하는 실습이다. | 공식 실습자료 |
+| 11-19 | [BRK422 · AKS에서 오픈웨이트 모델·후속 학습·에이전트 운영](sessions/2026-11-19/BRK422.md) | 서빙, 후속 학습, 에이전트 실행은 같은 Kubernetes 위에서도 서로 다른 격리와 비용 기준을 요구한다. | 공식 행사 녹화 |
+| 11-19 | [BRK260 · AI FinOps에서 사용료를 업무 성과에 연결하기](sessions/2026-11-19/BRK260.md) | 부서별 AI 사용료를 실제로 완료한 업무와 연결해 비용과 성과를 함께 판단한다. | 공식 행사 녹화 |
 
 ## 읽는 기준
 

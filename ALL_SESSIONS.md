@@ -1,8 +1,8 @@
 # Microsoft Ignite 2026 · 전체 세션 요약
 
-공식 방송·녹화 기반 30개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
+공식 방송·녹화 기반 32개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 20일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
 
-[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473) · [BRK525](#brk525) · [BRK368](#brk368) · [THR882](#thr882) · [THR945](#thr945)
+[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473) · [BRK525](#brk525) · [BRK368](#brk368) · [THR882](#thr882) · [THR945](#thr945) · [BRK422](#brk422) · [BRK260](#brk260)
 
 ## BRK240
 
@@ -617,12 +617,13 @@ Azure Local과 Foundry Local로 구축하는 주권 AI
 
 ### 확인 범위
 
-가상의 은행 시연과 제품 발표다. 실제 은행의 도입·권한 검증이나 동일 품질에서의 지연·처리량·비용은 공개 설명에서 확인되지 않았다. 영상은 Microsoft 행사 다시보기다.
+가상의 은행 시연과 제품 발표다. 실제 은행의 도입·권한 검증이나 동일 품질에서의 지연·처리량·비용은 공개 설명에서 확인되지 않았다. 영어 자막과 장면은 Microsoft 행사 다시보기 기준이다. 11월 20일 03:27 PST에 공식 YouTube 본편도 게시됐다.
 
 ### 공식 근거
 
 - [공식 회차](https://ignite.microsoft.com/en-US/sessions/1787856640517001EIKl-1791588245037001C6mG)
 - [행사 다시보기: 모델 평가 08:10–11:35 · 역할별 출처 24:00–28:53](https://medius.microsoft.com/Embed/video-nc/24585be0-7bee-4f5c-93ac-a113bd7a3c14)
+- [공식 YouTube 본편](https://www.youtube.com/watch?v=ydgEQeNGYmg)
 - [Microsoft 제품 발표](https://techcommunity.microsoft.com/blog/azurearcblog/whats-new-with-sovereign-private-cloud-at-microsoft-ignite-2026/4573886)
 - [Microsoft Learn 요구 사항](https://learn.microsoft.com/en-us/azure/azure-sovereign-clouds/private/foundry-local/concept-requirements)
 
@@ -804,3 +805,55 @@ AI 교육의 효과를 실제 업무에서 확인하기
 - [Forrester 연구 보고서](https://tei.forrester.com/go/microsoft/aiskillingportfolio/?lang=en-us)
 
 [개별 요약](sessions/2026-11-19/THR945.md)
+
+## BRK422
+
+AKS에서 오픈웨이트 모델·후속 학습·에이전트 운영
+
+**서빙, 후속 학습, 에이전트 실행은 같은 Kubernetes 위에서도 서로 다른 격리와 비용 기준을 요구한다.**
+
+2026-11-19 · 공식 행사 녹화 · GPU·추론·비용
+
+### 핵심 내용
+
+- 마이크로소프트(Microsoft Corporation) | 미국 | 업무 소프트웨어와 클라우드를 제공한다. | 호르헤 팔마(Jorge Palma)와 래키 에번슨(Lachie Evenson)이 AKS에서 서빙·학습·샌드박스를 구성하는 방식을 설명했다. 11:10 화면은 가중치와 이미지의 노드 간 캐시를 보여줬다.
+- 하비(Harvey AI) | 미국 | 법률·전문 서비스 업무에 AI 도구를 제공한다. | 산산 쑹(Shanshan Song)이 25:10 이후 AKS에서 대화 턴마다 상태를 복원·실행·저장하는 샌드박스의 운영 구조를 설명했다.
+- 44:30 시연에서는 위험한 스키마 변경 앞에 사람 승인을 넣고 자동 체크포인트에서 복구하는 흐름을 보여줬다. 앞서 Ray·Kueue·TauGrid 기반의 후속 학습 구성을 소개했다.
+
+### 확인 범위
+
+공식 다시보기의 화면과 영어 자막 표본을 대조했다. AKS AI Manager와 관리형 KubeRay 확장은 발표에서 Public Preview로 소개됐다. Harvey 자체 운영 설명과 제품 복구 시연이 포함된다. 금융권 도입 성과나 동일 SLO에서의 비용·품질 비교는 미확인이다. 공식 YouTube 본편은 미확인이다.
+
+### 공식 근거
+
+- [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856637461001ETKM-1791588350040001CQCY)
+- [공식 다시보기](https://medius.microsoft.com/Embed/video-nc/4ee8e26b-9898-4cdf-b934-b87ed106a553)
+- [Microsoft AKS 발표](https://techcommunity.microsoft.com/blog/appsonazureblog/run-models-and-agents-on-your-own-kubernetes-clusters-aks-at-microsoft-ignite-20/4573912)
+- [Harvey 회사 소개](https://www.harvey.ai/company)
+
+[개별 요약](sessions/2026-11-19/BRK422.md)
+
+## BRK260
+
+AI FinOps에서 사용료를 업무 성과에 연결하기
+
+**부서별 AI 사용료를 실제로 완료한 업무와 연결해 비용과 성과를 함께 판단한다.**
+
+2026-11-19 · 공식 행사 녹화 · GPU·추론·비용
+
+### 핵심 내용
+
+- 마이크로소프트(Microsoft Corporation) | 미국 | 업무용 소프트웨어와 클라우드를 제공한다. | 라이언 존스(Ryan Jones)와 아비나시 프라키야(Avinash Prakhya)가 AI 사용량과 업무 성과의 연결을 소개했다. 09:20과 13:10 전후에는 크레딧과 평가 문항별 사용량을 보는 흐름을 시연했다.
+- 17:00 전후에는 Entra 보안 그룹이나 개별 에이전트로 예산 정책을 구분하는 화면을 보여줬다. 20:50 전후에는 부서별 Azure 구독과 사용료를 연결하는 예를 설명했다.
+- 24:50 화면에서 Agent 365 Business Analytics를 Frontier Public으로 표시했다. 서비스·모델·사용자별 지출과 업무 결과를 대조하는 흐름을 제시했다. 시연에 사용한 지출·활용 데이터로 실제 도입의 인과 효과를 판단할 수는 없다.
+
+### 확인 범위
+
+공식 다시보기의 화면과 영어 자막 표본을 대조했다. 크레딧·부서 비용과 실제 업무 성과는 다른 지표다. 시연은 운영 환경의 절감액이나 효과를 입증하지 않는다. 공식 YouTube 본편은 미확인이다.
+
+### 공식 근거
+
+- [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856612609001ExWS-1791588098847001C5fK)
+- [공식 다시보기](https://medius.microsoft.com/Embed/video-nc/757f2f1e-0afd-47f9-b385-62ed3cbdde91)
+
+[개별 요약](sessions/2026-11-19/BRK260.md)

@@ -1,7 +1,7 @@
 {
   "title": "Microsoft Ignite 2026 session summaries",
   "language": "ko",
-  "evidence_cutoff": "2026-11-19 PST",
+  "evidence_cutoff": "2026-11-20 PST",
   "sessions": [
     {
       "code": "BRK240",
@@ -591,6 +591,10 @@
           "https://medius.microsoft.com/Embed/video-nc/24585be0-7bee-4f5c-93ac-a113bd7a3c14"
         ],
         [
+          "공식 Microsoft Events YouTube",
+          "https://www.youtube.com/watch?v=ydgEQeNGYmg"
+        ],
+        [
           "Microsoft 제품 발표",
           "https://techcommunity.microsoft.com/blog/azurearcblog/whats-new-with-sovereign-private-cloud-at-microsoft-ignite-2026/4573886"
         ],
@@ -790,6 +794,52 @@
       ],
       "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856589237001E1WX-1791588087938001Cz5F",
       "path": "sessions/2026-11-19/THR945.md"
+    },
+    {
+      "code": "BRK422",
+      "date": "2026-11-19",
+      "title": "AKS에서 오픈웨이트 모델·후속 학습·에이전트 운영",
+      "topic": "GPU·추론·비용",
+      "kind": "공식 행사 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856637461001ETKM-1791588350040001CQCY"
+        ],
+        [
+          "공식 다시보기",
+          "https://medius.microsoft.com/Embed/video-nc/4ee8e26b-9898-4cdf-b934-b87ed106a553"
+        ],
+        [
+          "Microsoft AKS 발표",
+          "https://techcommunity.microsoft.com/blog/appsonazureblog/run-models-and-agents-on-your-own-kubernetes-clusters-aks-at-microsoft-ignite-20/4573912"
+        ],
+        [
+          "Harvey 회사 소개",
+          "https://www.harvey.ai/company"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856637461001ETKM-1791588350040001CQCY",
+      "path": "sessions/2026-11-19/BRK422.md"
+    },
+    {
+      "code": "BRK260",
+      "date": "2026-11-19",
+      "title": "AI FinOps에서 사용료를 업무 성과에 연결하기",
+      "topic": "GPU·추론·비용",
+      "kind": "공식 행사 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856612609001ExWS-1791588098847001C5fK"
+        ],
+        [
+          "공식 다시보기",
+          "https://medius.microsoft.com/Embed/video-nc/757f2f1e-0afd-47f9-b385-62ed3cbdde91"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856612609001ExWS-1791588098847001C5fK",
+      "path": "sessions/2026-11-19/BRK260.md"
     }
   ],
   "previews": [
@@ -804,18 +854,6 @@
       "date": "2026-11-18",
       "title": "에이전트로 DB 변경 검토·배포",
       "url": "https://ignite.microsoft.com/en-US/sessions/1787856579719001EEoe-1791845862597001MYyl"
-    },
-    {
-      "code": "BRK260",
-      "date": "2026-11-19",
-      "title": "AI 사용료와 업무 성과 비교",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856612609001ExWS-1791588098847001C5fK"
-    },
-    {
-      "code": "BRK422",
-      "date": "2026-11-19",
-      "title": "AKS의 오픈웨이트 모델·후속 학습·에이전트",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856637461001ETKM-1791588350040001CQCY"
     },
     {
       "code": "LABSP833",
