@@ -1,6 +1,6 @@
 # 공식 소개만 확보한 세션
 
-아래 8개는 공식 행사 소개를 바탕으로 정리했습니다. 발표 본문과 실습 결과를 검토한 요약은 별도 목록에서 볼 수 있습니다.
+아래 7개는 공식 행사 소개를 바탕으로 정리했습니다. 발표 본문과 실습 결과를 검토한 요약은 별도 목록에서 볼 수 있습니다.
 
 기준: 2026년 11월 19일 PST까지의 수집 기록. 이후 영상이 공개됐는지는 이 목록만으로 판단할 수 없습니다.
 
@@ -12,11 +12,8 @@
 | 2026-11-19 | BRK422 | [AKS의 오픈웨이트 모델·후속 학습·에이전트](https://ignite.microsoft.com/en-US/sessions/1787856637461001ETKM-1791588350040001CQCY) |
 | 2026-11-19 | LABSP833 | [AMD 로컬 AI 에이전트 실습](https://ignite.microsoft.com/en-US/sessions/1790705299182001YkwU-1791912134700001kpH2) |
 | 2026-11-19 | LABSP842 | [NeMo Switchyard 모델 라우팅 실습](https://ignite.microsoft.com/en-US/sessions/1790705492563001fJgg-1793034421191001mTOZ) |
-| 2026-11-19 | THR945 | [직원의 AI 교육이 업무 성과에 어떤 영향을 주는가](https://ignite.microsoft.com/en-US/sessions/1787856589237001E1WX-1791588087938001Cz5F) |
 | 2026-11-20 | BRK443 | [민감한 AI 모델·데이터 보호](https://ignite.microsoft.com/en-US/sessions/1787856640669001EqlK-1791814917579001CtBK) |
 
 LABSP830·LABSP833·LABSP842는 공식 카탈로그에서 녹화 계획이 없는 실습으로 안내됐습니다. [공식 카탈로그](https://eventtools.event.microsoft.com/ignite2026-prod/fallback/session-all-en-us.json)
-
-THR945는 Microsoft 연구를 바탕으로 직원의 AI 활용 준비도와 도입이 업무 성과에 어떻게 이어지는지 다룹니다. [공식 다시보기](https://medius.microsoft.com/Embed/video-nc/35d9faa5-1959-4ac1-81a8-46f56254b661) 링크를 확인했으며 발표 본문은 검토 대기입니다.
 
 [요약이 있는 세션](README.md)

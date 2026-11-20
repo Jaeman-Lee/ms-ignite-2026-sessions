@@ -1,8 +1,8 @@
 # Microsoft Ignite 2026 · 전체 세션 요약
 
-공식 방송·녹화 기반 29개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
+공식 방송·녹화 기반 30개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
 
-[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473) · [BRK525](#brk525) · [BRK368](#brk368) · [THR882](#thr882)
+[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473) · [BRK525](#brk525) · [BRK368](#brk368) · [THR882](#thr882) · [THR945](#thr945)
 
 ## BRK240
 
@@ -778,3 +778,29 @@ DB 장애 근거 수집과 승인 기반 복구
 - [메르세데스-벤츠 그룹 기업 정보](https://group.mercedes-benz.com/contact/)
 
 [개별 요약](sessions/2026-11-19/BRK525.md)
+
+## THR945
+
+AI 교육의 효과를 실제 업무에서 확인하기
+
+**직원이 자주 하는 일 하나를 고르고, 교육 뒤 그 일이 어떻게 달라졌는지 같은 지표로 확인한다.**
+
+2026-11-19 · 공식 녹화·연구 보고서 · 도입·조직
+
+### 핵심 내용
+
+- 킴벌리 코트렐(Microsoft Global Skilling)은 15:38–16:22에 직원의 역할과 실제 업무에 맞춰 실습을 설계하자고 제안했다.
+- 18:33–20:05에는 우선 바꿀 업무 하나와 비교 기준이 될 지표 하나를 고르라고 했다. 교육만 듣고 끝나지 않도록 실습과 피드백을 이어가는 방식이다.
+- Forrester는 Microsoft 의뢰로 고객 조직의 의사결정자 5명을 인터뷰했다. 이를 바탕으로 구성한 가상 기업에서 3년간의 편익을 현재가치로 환산해 약 3,750만 달러로 추정했다.
+
+### 확인 범위
+
+공식 녹화의 영어 자막과 Forrester 보고서를 대조했다. 3,750만 달러는 가상 기업의 모형에서 위험을 반영한 편익 추정치다. 이 모형은 비용을 계산에 넣지 않아 투자수익률과 투자금 회수 기간을 제시하지 않았다.
+
+### 공식 근거
+
+- [Microsoft Ignite 공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856589237001E1WX-1791588087938001Cz5F)
+- [공식 다시보기](https://medius.microsoft.com/Embed/video-nc/35d9faa5-1959-4ac1-81a8-46f56254b661)
+- [Forrester 연구 보고서](https://tei.forrester.com/go/microsoft/aiskillingportfolio/?lang=en-us)
+
+[개별 요약](sessions/2026-11-19/THR945.md)

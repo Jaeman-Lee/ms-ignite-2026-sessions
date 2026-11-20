@@ -767,6 +767,29 @@
       ],
       "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856653112001EXqY-1791588307345001C7zd",
       "path": "sessions/2026-11-19/BRK525.md"
+    },
+    {
+      "code": "THR945",
+      "date": "2026-11-19",
+      "title": "AI 교육의 효과를 실제 업무에서 확인하기",
+      "topic": "도입·조직",
+      "kind": "공식 녹화·연구 보고서",
+      "sources": [
+        [
+          "Microsoft Ignite 공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856589237001E1WX-1791588087938001Cz5F"
+        ],
+        [
+          "공식 다시보기",
+          "https://medius.microsoft.com/Embed/video-nc/35d9faa5-1959-4ac1-81a8-46f56254b661"
+        ],
+        [
+          "Forrester 연구 보고서",
+          "https://tei.forrester.com/go/microsoft/aiskillingportfolio/?lang=en-us"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856589237001E1WX-1791588087938001Cz5F",
+      "path": "sessions/2026-11-19/THR945.md"
     }
   ],
   "previews": [
@@ -805,14 +828,6 @@
       "date": "2026-11-19",
       "title": "NeMo Switchyard 모델 라우팅 실습",
       "url": "https://ignite.microsoft.com/en-US/sessions/1790705492563001fJgg-1793034421191001mTOZ"
-    },
-    {
-      "code": "THR945",
-      "date": "2026-11-19",
-      "title": "직원의 AI 교육이 업무 성과에 어떤 영향을 주는가",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856589237001E1WX-1791588087938001Cz5F",
-      "replay_url": "https://medius.microsoft.com/Embed/video-nc/35d9faa5-1959-4ac1-81a8-46f56254b661",
-      "review_status": "공식 소개와 다시보기 링크 확인"
     },
     {
       "code": "BRK443",
