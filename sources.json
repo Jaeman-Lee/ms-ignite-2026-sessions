@@ -902,7 +902,22 @@
       "code": "BRK443",
       "date": "2026-11-20",
       "title": "민감한 AI 모델·데이터 보호",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856640669001EqlK-1791814917579001CtBK"
+      "url": "https://ignite.microsoft.com/en-US/sessions/1787856640669001EqlK-1791814917579001CtBK",
+      "evidence_status": "official_documents_reviewed_video_pending",
+      "sources": [
+        [
+          "공식 카탈로그",
+          "https://eventtools.event.microsoft.com/ignite2026-prod/fallback/session-all-en-us.json"
+        ],
+        [
+          "기밀 컴퓨팅 발표",
+          "https://techcommunity.microsoft.com/blog/AzureConfidentialComputingBlog/what%E2%80%99s-new-in-azure-confidential-computing-%E2%80%94-ignite-2026/4573909"
+        ],
+        [
+          "Vera Rubin 시연 설명",
+          "https://techcommunity.microsoft.com/blog/azureconfidentialcomputingblog/confidential-ai-at-rack-scale-introducing-azure%E2%80%99s-vera-rubin-nvl72-technology-pr/4570354"
+        ]
+      ]
     }
   ]
 }
