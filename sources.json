@@ -665,7 +665,7 @@
       "date": "2026-11-19",
       "title": "금융 에이전트의 실험 권한과 운영 승인",
       "topic": "평가·보안·통제",
-      "kind": "공식 행사 녹화",
+      "kind": "공식 행사 녹화·YouTube",
       "sources": [
         [
           "공식 세션",
@@ -674,6 +674,10 @@
         [
           "공식 행사 다시보기",
           "https://medius.microsoft.com/Embed/video-nc/5fd1a5a1-f386-4f89-a525-5b5c39952c4f"
+        ],
+        [
+          "공식 YouTube 본편",
+          "https://www.youtube.com/watch?v=VO0pjIubjXE"
         ],
         [
           "State Farm 기업 소개",
@@ -724,6 +728,41 @@
       ],
       "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856579574001Ettf-1791588274282001CUNE",
       "path": "sessions/2026-11-19/THR882.md"
+    },
+    {
+      "code": "BRK525",
+      "date": "2026-11-19",
+      "title": "공신력 있는 데이터로 만드는 금융 리스크 조기경보",
+      "topic": "평가·보안·통제",
+      "kind": "공식 행사 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856653112001EXqY-1791588307345001C7zd"
+        ],
+        [
+          "공식 행사 다시보기",
+          "https://medius.microsoft.com/Embed/video-nc/22c4c2a1-4acf-4091-b3c8-dc4eaacd6a5f"
+        ],
+        [
+          "무디스 발표자 소개",
+          "https://ignite.microsoft.com/en-US/speakers/177730559163ignite27-1791219976569001gWDi"
+        ],
+        [
+          "마이크로소프트 기업 정보",
+          "https://www.microsoft.com/en-us/investor/contact-information"
+        ],
+        [
+          "무디스 기업 정보",
+          "https://www.moodys.com/web/en/us/help-support/offices.html"
+        ],
+        [
+          "메르세데스-벤츠 그룹 기업 정보",
+          "https://group.mercedes-benz.com/contact/"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856653112001EXqY-1791588307345001C7zd",
+      "path": "sessions/2026-11-19/BRK525.md"
     }
   ],
   "previews": [
@@ -750,12 +789,6 @@
       "date": "2026-11-19",
       "title": "AKS의 오픈웨이트 모델·후속 학습·에이전트",
       "url": "https://ignite.microsoft.com/en-US/sessions/1787856637461001ETKM-1791588350040001CQCY"
-    },
-    {
-      "code": "BRK525",
-      "date": "2026-11-19",
-      "title": "금융 리서치·리스크 에이전트",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856653112001EXqY-1791588307345001C7zd"
     },
     {
       "code": "LABSP833",

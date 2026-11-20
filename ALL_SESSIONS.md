@@ -1,8 +1,8 @@
 # Microsoft Ignite 2026 · 전체 세션 요약
 
-공식 방송·녹화 기반 28개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
+공식 방송·녹화 기반 29개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
 
-[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473) · [BRK368](#brk368) · [THR882](#thr882)
+[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473) · [BRK525](#brk525) · [BRK368](#brk368) · [THR882](#thr882)
 
 ## BRK240
 
@@ -693,12 +693,13 @@ vLLM Semantic Router로 추론 경로 선택하기
 
 ### 확인 범위
 
-공식 행사 다시보기의 화면과 영어 자막 표본을 확인했다. 52개는 해당 보험사가 발표한 운영 배포 수다. 업무 처리 품질·위험 감소·비용 절감 성과와 기능별 출시 단계는 별도 검증이 필요하다. 공식 YouTube 본편은 확인되지 않았다.
+공식 행사 다시보기의 화면과 영어 자막 표본을 확인했다. 52개는 해당 보험사가 발표한 운영 배포 수다. 업무 처리 품질·위험 감소·비용 절감 성과와 기능별 출시 단계는 별도 검증이 필요하다. Microsoft Events 채널의 공식 YouTube 본편은 11월 19일 16:49 PST 공개됐다. 화면·자막 근거와 아래 시각은 행사 다시보기 기준이다.
 
 ### 공식 근거
 
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856645220001EUhq-1791588268917001CGsN)
 - [공식 행사 다시보기](https://medius.microsoft.com/Embed/video-nc/5fd1a5a1-f386-4f89-a525-5b5c39952c4f)
+- [공식 YouTube 본편](https://www.youtube.com/watch?v=VO0pjIubjXE)
 - [State Farm 기업 소개](https://www.statefarm.com/about-us/company-overview)
 
 ## BRK368
@@ -747,3 +748,30 @@ DB 장애 근거 수집과 승인 기반 복구
 
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856579574001Ettf-1791588274282001CUNE)
 - [공식 행사 다시보기](https://medius.microsoft.com/Embed/video-nc/4f0b46b4-8e3b-4539-adc3-8ae01a6d2835)
+
+## BRK525
+
+공신력 있는 데이터로 만드는 금융 리스크 조기경보
+
+**에이전트가 출처가 있는 위험 신호를 모으고, 검토자가 판단과 승인에 책임을 진다.**
+
+### 핵심 내용
+
+- 마이크로소프트(Microsoft Corporation) | 미국 | 업무용 소프트웨어와 클라우드를 제공한다. | 헤만트 순다라라지(Hemanth Sundararaj)와 아미트 판찰(Amit Panchal)이 금융 에이전트 참조 구조를 소개했다. 17:10 화면에서 데이터, 지식, 업무 앱과 공통 통제 계층을 함께 제시했다.
+- 무디스 애널리틱스(Moody’s Analytics, Inc.; Moody’s Corporation 그룹) | 미국 | 기업 신용과 위험을 평가할 때 쓰는 데이터와 분석을 제공한다. | 디미트리오스 파파나스타시우(Dimitrios Papanastasiou)가 공동 발표자로 조기경보를 설명했다. 21:35 화면의 공동 시연은 Copilot과 Excel에서 여러 국가의 거시 지표와 국가신용 위험을 정리하고 출처를 표시했다.
+- 메르세데스-벤츠 그룹(Mercedes-Benz Group AG) | 독일 | 승용차와 밴을 생산하는 자동차 그룹이다. | 29:00 조기경보 슬라이드에서 신용 분석 대상으로 등장했다. 데이터 수집과 초안 작성에 이어 민감한 신용 판단에는 사람이 관여해야 한다는 견해가 40:30 이후 질의응답에 나왔다.
+
+### 확인 범위
+
+공식 행사 다시보기 화면과 영어 자막 표본을 확인했다. 출처 연결과 조기경보는 공동 발표와 시연으로 확인됐다. 분석 대상 기업의 도입, 자체 모델 학습, 운영 성과, 기능별 출시 상태는 별도 확인이 필요하다. 이 회차의 공식 YouTube 본편은 미확인이다.
+
+### 공식 근거
+
+- [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856653112001EXqY-1791588307345001C7zd)
+- [공식 행사 다시보기](https://medius.microsoft.com/Embed/video-nc/22c4c2a1-4acf-4091-b3c8-dc4eaacd6a5f)
+- [무디스 발표자 소개](https://ignite.microsoft.com/en-US/speakers/177730559163ignite27-1791219976569001gWDi)
+- [마이크로소프트 기업 정보](https://www.microsoft.com/en-us/investor/contact-information)
+- [무디스 기업 정보](https://www.moodys.com/web/en/us/help-support/offices.html)
+- [메르세데스-벤츠 그룹 기업 정보](https://group.mercedes-benz.com/contact/)
+
+[개별 요약](sessions/2026-11-19/BRK525.md)
