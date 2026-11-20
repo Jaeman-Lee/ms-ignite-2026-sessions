@@ -2,13 +2,13 @@
 
 공식 자료를 바탕으로 정리한 한국어 세션 노트입니다. 각 문서는 **핵심 3가지 → 확인 범위 → 공식 근거** 순서로 읽을 수 있습니다.
 
-**방송·녹화 기반 요약 33개 + 공식 실습자료 정리 2개**를 담았습니다. [한 문서로 모두 읽기](ALL_SESSIONS.md) · [공식 소개 5개](PREVIEWS.md)
+**방송·녹화 기반 요약 34개 + 공식 실습자료 정리 2개**를 담았습니다. [한 문서로 모두 읽기](ALL_SESSIONS.md) · [공식 소개 4개](PREVIEWS.md)
 
 자료 기준: 2026년 11월 20일 PST까지 수집한 기록. 행사 날짜는 샌프란시스코 현지 날짜이며, 제품 제공 단계는 발표·문서 확인 당시 기준입니다.
 
 ## 주제별로 찾기
 
-- **평가·보안·통제**: [BRK473](sessions/2026-11-19/BRK473.md) · [BRK525](sessions/2026-11-19/BRK525.md) · [BRK442](sessions/2026-11-19/BRK442.md) · [BRK240](sessions/2026-11-17/BRK240.md) · [LIVE50](sessions/2026-11-17/LIVE50.md) · [LIVE51](sessions/2026-11-17/LIVE51.md) · [OD1931](sessions/2026-11-17/OD1931.md) · [ODSP2215](sessions/2026-11-17/ODSP2215.md) · [BRKSP610](sessions/2026-11-18/BRKSP610.md) · [LIVE54](sessions/2026-11-18/LIVE54.md)
+- **평가·보안·통제**: [BRK473](sessions/2026-11-19/BRK473.md) · [BRK525](sessions/2026-11-19/BRK525.md) · [BRK442](sessions/2026-11-19/BRK442.md) · [BRK240](sessions/2026-11-17/BRK240.md) · [LIVE50](sessions/2026-11-17/LIVE50.md) · [LIVE51](sessions/2026-11-17/LIVE51.md) · [OD1931](sessions/2026-11-17/OD1931.md) · [ODSP2215](sessions/2026-11-17/ODSP2215.md) · [BRKSP610](sessions/2026-11-18/BRKSP610.md) · [LIVE54](sessions/2026-11-18/LIVE54.md) · [BRK443](sessions/2026-11-20/BRK443.md)
 - **GPU·추론·비용**: [BRK441](sessions/2026-11-17/BRK441.md) · [BRKSP630](sessions/2026-11-17/BRKSP630.md) · [INV643](sessions/2026-11-17/INV643.md) · [LIVE53](sessions/2026-11-17/LIVE53.md) · [ODSP2235](sessions/2026-11-17/ODSP2235.md) · [BRK247](sessions/2026-11-18/BRK247.md) · [LIVE55](sessions/2026-11-18/LIVE55.md) · [LAB723](sessions/2026-11-19/LAB723.md) · [LABSP830](sessions/2026-11-19/LABSP830.md) · [BRK422](sessions/2026-11-19/BRK422.md) · [BRK260](sessions/2026-11-19/BRK260.md)
 - **업무용 에이전트**: [BRK548](sessions/2026-11-17/BRK548.md) · [INV640](sessions/2026-11-17/INV640.md) · [KEY01](sessions/2026-11-17/KEY01.md) · [LIVE52](sessions/2026-11-17/LIVE52.md) · [THRSP1102](sessions/2026-11-19/THRSP1102.md)
 - **데이터·검색**: [ODSP2172](sessions/2026-11-17/ODSP2172.md) · [ODSP2244](sessions/2026-11-17/ODSP2244.md) · [THR1014](sessions/2026-11-17/THR1014.md)
@@ -53,6 +53,7 @@
 | 11-19 | [BRK422 · AKS에서 오픈웨이트 모델·후속 학습·에이전트 운영](sessions/2026-11-19/BRK422.md) | 서빙, 후속 학습, 에이전트 실행은 같은 Kubernetes 위에서도 서로 다른 격리와 비용 기준을 요구한다. | 공식 행사 녹화 |
 | 11-19 | [BRK260 · AI FinOps에서 사용료를 업무 성과에 연결하기](sessions/2026-11-19/BRK260.md) | 부서별 AI 사용료를 실제로 완료한 업무와 연결해 비용과 성과를 함께 판단한다. | 공식 행사 녹화 |
 | 11-19 | [THRSP1102 · 은행 파일 전송 장애를 에이전트로 조사하기](sessions/2026-11-19/THRSP1102.md) | 에이전트가 전송 장애의 근거를 수집하고, 담당자가 원천 시스템에서 확인한다. | 공식 행사 녹화·YouTube |
+| 11-20 | [BRK443 · 민감한 AI 데이터의 처리 환경을 검증하는 방법](sessions/2026-11-20/BRK443.md) | 민감한 모델과 데이터의 키는 실행 환경이 승인된 구성임을 검증한 뒤에만 제공한다. | 공식 행사 녹화·YouTube |
 
 ## 읽는 기준
 

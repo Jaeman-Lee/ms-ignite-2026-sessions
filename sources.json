@@ -871,6 +871,41 @@
       ],
       "session_url": "https://ignite.microsoft.com/en-US/sessions/1787858593675001S6Rz-1791588238881001CNXU",
       "path": "sessions/2026-11-19/THRSP1102.md"
+    },
+    {
+      "code": "BRK443",
+      "date": "2026-11-20",
+      "title": "민감한 AI 데이터의 처리 환경을 검증하는 방법",
+      "topic": "평가·보안·통제",
+      "kind": "공식 행사 녹화·YouTube",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856640669001EqlK-1791814917579001CtBK"
+        ],
+        [
+          "Microsoft Events 공식 YouTube",
+          "https://www.youtube.com/watch?v=xJJ-yalXgEA"
+        ],
+        [
+          "공식 행사 다시보기",
+          "https://medius.microsoft.com/Embed/video-nc/6bcd4c6f-d32d-4f5f-87b4-1b837e3be140"
+        ],
+        [
+          "Azure 기밀 컴퓨팅 발표",
+          "https://techcommunity.microsoft.com/blog/AzureConfidentialComputingBlog/what%E2%80%99s-new-in-azure-confidential-computing-%E2%80%94-ignite-2026/4573909"
+        ],
+        [
+          "Vera Rubin 시연 조건",
+          "https://techcommunity.microsoft.com/blog/azureconfidentialcomputingblog/confidential-ai-at-rack-scale-introducing-azure%E2%80%99s-vera-rubin-nvl72-technology-pr/4570354"
+        ],
+        [
+          "OpenAI Private Intelligence",
+          "https://openai.com/form/private-intelligence-interest/"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856640669001EqlK-1791814917579001CtBK",
+      "path": "sessions/2026-11-20/BRK443.md"
     }
   ],
   "previews": [
@@ -897,27 +932,6 @@
       "date": "2026-11-19",
       "title": "NeMo Switchyard 모델 라우팅 실습",
       "url": "https://ignite.microsoft.com/en-US/sessions/1790705492563001fJgg-1793034421191001mTOZ"
-    },
-    {
-      "code": "BRK443",
-      "date": "2026-11-20",
-      "title": "민감한 AI 모델·데이터 보호",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856640669001EqlK-1791814917579001CtBK",
-      "evidence_status": "official_documents_reviewed_video_pending",
-      "sources": [
-        [
-          "공식 카탈로그",
-          "https://eventtools.event.microsoft.com/ignite2026-prod/fallback/session-all-en-us.json"
-        ],
-        [
-          "기밀 컴퓨팅 발표",
-          "https://techcommunity.microsoft.com/blog/AzureConfidentialComputingBlog/what%E2%80%99s-new-in-azure-confidential-computing-%E2%80%94-ignite-2026/4573909"
-        ],
-        [
-          "Vera Rubin 시연 설명",
-          "https://techcommunity.microsoft.com/blog/azureconfidentialcomputingblog/confidential-ai-at-rack-scale-introducing-azure%E2%80%99s-vera-rubin-nvl72-technology-pr/4570354"
-        ]
-      ]
     }
   ]
 }

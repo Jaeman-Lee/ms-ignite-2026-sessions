@@ -1,8 +1,8 @@
 # Microsoft Ignite 2026 · 전체 세션 요약
 
-공식 방송·녹화 기반 33개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 20일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
+공식 방송·녹화 기반 34개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 20일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
 
-[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473) · [BRK525](#brk525) · [BRK368](#brk368) · [THR882](#thr882) · [THR945](#thr945) · [BRK422](#brk422) · [BRK260](#brk260) · [THRSP1102](#thrsp1102)
+[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473) · [BRK525](#brk525) · [BRK368](#brk368) · [THR882](#thr882) · [THR945](#thr945) · [BRK422](#brk422) · [BRK260](#brk260) · [THRSP1102](#thrsp1102) · [BRK443](#brk443)
 
 ## BRK240
 
@@ -885,3 +885,32 @@ AI FinOps에서 사용료를 업무 성과에 연결하기
 - [Files.com 발표자](https://www.files.com/team)
 
 [개별 요약](sessions/2026-11-19/THRSP1102.md)
+
+---
+
+## BRK443
+
+민감한 AI 데이터의 처리 환경을 검증하는 방법
+
+**한 줄 결론**　민감한 모델과 데이터의 키는 실행 환경이 승인된 구성임을 검증한 뒤에만 제공한다.
+
+### 핵심 내용
+
+1. 마이크로소프트(Microsoft Corporation) | 미국 | 기업용 소프트웨어와 클라우드를 제공한다. | 비카스 바티아(Vikas Bhatia)가 15:15에 하드웨어가 서명한 실행 환경의 증거를 검증한 뒤 정책에 따라 키를 공개하는 흐름을 설명했다. 18:35에는 패치된 호스트로 기밀 VM을 옮기는 시연을 소개했다.
+2. 엔비디아(NVIDIA Corporation) | 미국 | AI 연산용 GPU와 소프트웨어를 공급한다. | 28:40 전후 Azure 시연에서 Vera Rubin GPU 4개로 3,970억 매개변수 Qwen3.5를 vLLM으로 서빙했다. 로컬 검증, 상태 확인 응답, 모델 목록 반환을 보여줬다. Vera Rubin 기밀 베어메탈은 기술 프리뷰이며, 테넌트 호스트 OS와 런타임은 신뢰 경계에 포함됐다.
+3. 오픈AI(OpenAI) | 미국 | 생성형 AI 모델과 서비스를 개발한다. | 사이 딥 테탈리(Sai Deep Tetali)가 Private Safety Processing의 제한된 검토 경로를 설명했다. 39:45에는 하드웨어 격리, 서명 증거, 구성 검증, 승인된 환경에 대한 키 공개를 구분했다. 공식 제품 안내에서 Private Inference는 Preview로 표시된다.
+
+### 확인 범위
+
+11월 20일 13:55 PST 공개된 공식 YouTube를 회차와 대조했다. 위 시각은 실제 화면과 영어 자막 표본을 확인한 행사 다시보기 기준이다. 기존 Azure H100 기밀 VM은 발표 제품 표에서 GA이며, Rubin용 기밀 VM, AKS·Kata 기반 기밀 컨테이너 및 Foundry 통합은 향후 방향으로 소개됐다. 시연에서 처리량·지연·비용 비교치는 확인하지 못했다.
+
+### 공식 근거
+
+- [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856640669001EqlK-1791814917579001CtBK)
+- [Microsoft Events 공식 YouTube](https://www.youtube.com/watch?v=xJJ-yalXgEA)
+- [공식 행사 다시보기](https://medius.microsoft.com/Embed/video-nc/6bcd4c6f-d32d-4f5f-87b4-1b837e3be140)
+- [Azure 기밀 컴퓨팅 발표](https://techcommunity.microsoft.com/blog/AzureConfidentialComputingBlog/what%E2%80%99s-new-in-azure-confidential-computing-%E2%80%94-ignite-2026/4573909)
+- [Vera Rubin 시연 조건](https://techcommunity.microsoft.com/blog/azureconfidentialcomputingblog/confidential-ai-at-rack-scale-introducing-azure%E2%80%99s-vera-rubin-nvl72-technology-pr/4570354)
+- [OpenAI Private Intelligence](https://openai.com/form/private-intelligence-interest/)
+
+[개별 요약](sessions/2026-11-20/BRK443.md)
