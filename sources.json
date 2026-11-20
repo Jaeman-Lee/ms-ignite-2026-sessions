@@ -840,6 +840,37 @@
       ],
       "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856612609001ExWS-1791588098847001C5fK",
       "path": "sessions/2026-11-19/BRK260.md"
+    },
+    {
+      "code": "THRSP1102",
+      "date": "2026-11-19",
+      "title": "은행 파일 전송 장애를 에이전트로 조사하기",
+      "topic": "업무용 에이전트",
+      "kind": "공식 행사 녹화·YouTube",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787858593675001S6Rz-1791588238881001CNXU"
+        ],
+        [
+          "Microsoft Events 공식 YouTube",
+          "https://www.youtube.com/watch?v=WgWaYYl1tNc"
+        ],
+        [
+          "공식 행사 다시보기",
+          "https://medius.microsoft.com/Embed/video-nc/5e52df38-a2f8-414d-abfd-d32091b77f8b"
+        ],
+        [
+          "TowneBank 발표자",
+          "https://ignite.microsoft.com/en-US/speakers/177730559163ignite27-1785184278259001mRpG"
+        ],
+        [
+          "Files.com 발표자",
+          "https://www.files.com/team"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787858593675001S6Rz-1791588238881001CNXU",
+      "path": "sessions/2026-11-19/THRSP1102.md"
     }
   ],
   "previews": [
