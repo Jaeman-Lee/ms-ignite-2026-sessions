@@ -1,8 +1,8 @@
 # Microsoft Ignite 2026 · 전체 세션 요약
 
-공식 방송·녹화 기반 26개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
+공식 방송·녹화 기반 28개와 공식 실습자료 기반 2개를 한 문서로 모았습니다. 2026년 11월 19일 PST까지 수집한 자료 기준입니다. [세션 목록](README.md) · [소개만 확보한 세션](PREVIEWS.md)
 
-[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473)
+[BRK240](#brk240) · [BRK441](#brk441) · [BRK548](#brk548) · [BRKSP630](#brksp630) · [INV640](#inv640) · [INV643](#inv643) · [KEY01](#key01) · [LIVE50](#live50) · [LIVE51](#live51) · [LIVE52](#live52) · [LIVE53](#live53) · [OD1931](#od1931) · [ODSP2172](#odsp2172) · [ODSP2215](#odsp2215) · [ODSP2235](#odsp2235) · [ODSP2244](#odsp2244) · [THR1014](#thr1014) · [BRK247](#brk247) · [BRK272](#brk272) · [BRK533](#brk533) · [BRKSP610](#brksp610) · [KEY02](#key02) · [LIVE54](#live54) · [LIVE55](#live55) · [BRK442](#brk442) · [LAB723](#lab723) · [LABSP830](#labsp830) · [BRK473](#brk473) · [BRK368](#brk368) · [THR882](#thr882)
 
 ## BRK240
 
@@ -173,6 +173,7 @@ Copilot 업무 위임과 조직의 비용 통제
 ### 공식 근거
 
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856726055001EpP1-1789751960282001d6eI)
+- [Microsoft Events 공식 추가 게시본 · 11월 19일 16:08 PST](https://www.youtube.com/watch?v=-JSecnudwvY)
 - [Microsoft Events 공식 영상](https://www.youtube.com/watch?v=JaTSaJioHV8)
 - [BNY 공식 파일럿 발표](https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-and-microsoft-complete-first-agentic-negotiation-of-a-us-treasury-trade.html)
 - [Microsoft 공식 키노트 글](https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/)
@@ -699,3 +700,50 @@ vLLM Semantic Router로 추론 경로 선택하기
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856645220001EUhq-1791588268917001CGsN)
 - [공식 행사 다시보기](https://medius.microsoft.com/Embed/video-nc/5fd1a5a1-f386-4f89-a525-5b5c39952c4f)
 - [State Farm 기업 소개](https://www.statefarm.com/about-us/company-overview)
+
+## BRK368
+
+PostgreSQL 운영 환경의 분산과 이관 검증
+
+**샤드를 늘릴 때 연결별 메타데이터 메모리와 실제 복원 시간을 함께 검증한다.**
+
+2026-11-19 · 공식 행사 녹화 · 데이터·DB 운영
+
+### 핵심 내용
+
+- 볼터스 클루버(Wolters Kluwer) | 네덜란드 | 법률·세무 등 전문가에게 정보와 소프트웨어를 제공한다. | 스벤 후베르트(Sven Hubert)가 자사의 PostgreSQL 이관을 설명했다. 14:40–15:20에 스키마 및 파티션 설계, 시험 복원과 반복 이관 검증을 다뤘다.
+- 19:40–20:18에는 파티션과 샤드 증가로 연결별 메타데이터 캐시가 커져 메모리가 부족해진 운영 사례를 설명했다. 25:30 결과 화면에 피크 메모리 80% 미만, 평균 SQL 문장 실행 시간 20ms 미만이 표시됐다.
+- 마이크로소프트(Microsoft Corporation) | 미국 | 업무 소프트웨어와 클라우드를 제공한다. | 가이 바워먼(Guy Bowerman)과 다니알 부카리(Danyal Bukhari)가 운영 기능을 설명했다. 38:20–39:05에 Database Agent Preview의 진단→검토용 PR 흐름과 향후 Fabric Database Hub 연계를 소개했다.
+
+### 확인 범위
+
+공식 행사 다시보기 화면과 영어 자막 표본을 대조했다. 메모리와 실행 시간은 한 고객의 발표 수치이며 동시 부하와 비교 조건은 충분히 공개되지 않았다. PR 병합이나 운영 DB 변경 실행은 확인되지 않았다. 공식 YouTube 본편은 확인 대기다.
+
+### 공식 근거
+
+- [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856629108001E3Up-1791588323549001CZ65)
+- [공식 행사 다시보기](https://medius.microsoft.com/Embed/video-nc/f15a59e7-e2c1-4c03-b39f-6244732c2cff)
+- [볼터스 클루버 기업 정보](https://www.wolterskluwer.com/en/contact-us)
+
+## THR882
+
+DB 장애 근거 수집과 승인 기반 복구
+
+**장애 근거와 대응 초안은 에이전트가 모으고 운영자가 변경을 검토한다.**
+
+2026-11-19 · 공식 행사 녹화 · 데이터·DB 운영
+
+### 핵심 내용
+
+- 마이크로소프트(Microsoft Corporation) | 미국 | 업무 소프트웨어와 클라우드를 제공한다. | 브라이언 홀트(Brian Holt)가 Database Agent의 진단·권고 흐름을 소개했다. 05:25 화면은 지표, 로그, 쿼리 실행계획, 배포를 모아 근거와 다음 조치를 구분했다.
+- 13:20의 모의 서버에서 연결 고갈 사례를 살폈다. 화면은 운영자가 직접 세션을 확인해야 하는 조건과 롤백 안내를 표시했다.
+- 20:30과 23:30의 화면에서 이슈 등록과 자동 복구는 향후 제공 기능으로 표시됐다. 자동 복구는 시나리오별 선택, 저위험 조치 한정, 자동 재시작 제외, 결과 확인과 기록을 조건으로 설명했다.
+
+### 확인 범위
+
+공식 행사 영상의 화면과 슬라이드를 확인했다. 확인한 영어 자막 구간은 비어 있었다. 모의 시연에서 실 DB 수정이나 운영 장애 복구 결과는 검증되지 않았다. 공식 YouTube 본편은 확인 대기다.
+
+### 공식 근거
+
+- [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856579574001Ettf-1791588274282001CUNE)
+- [공식 행사 다시보기](https://medius.microsoft.com/Embed/video-nc/4f0b46b4-8e3b-4539-adc3-8ae01a6d2835)

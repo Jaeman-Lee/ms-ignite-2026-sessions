@@ -153,6 +153,10 @@
           "https://ignite.microsoft.com/en-US/sessions/1787856726055001EpP1-1789751960282001d6eI"
         ],
         [
+          "Microsoft Events 공식 추가 게시본 · 11월 19일 16:08 PST",
+          "https://www.youtube.com/watch?v=-JSecnudwvY"
+        ],
+        [
           "Microsoft Events 공식 영상",
           "https://www.youtube.com/watch?v=JaTSaJioHV8"
         ],
@@ -678,6 +682,48 @@
       ],
       "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856645220001EUhq-1791588268917001CGsN",
       "path": "sessions/2026-11-19/BRK473.md"
+    },
+    {
+      "code": "BRK368",
+      "date": "2026-11-19",
+      "title": "PostgreSQL 운영 환경의 분산과 이관 검증",
+      "topic": "데이터·DB 운영",
+      "kind": "공식 행사 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856629108001E3Up-1791588323549001CZ65"
+        ],
+        [
+          "공식 행사 다시보기",
+          "https://medius.microsoft.com/Embed/video-nc/f15a59e7-e2c1-4c03-b39f-6244732c2cff"
+        ],
+        [
+          "볼터스 클루버 기업 정보",
+          "https://www.wolterskluwer.com/en/contact-us"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856629108001E3Up-1791588323549001CZ65",
+      "path": "sessions/2026-11-19/BRK368.md"
+    },
+    {
+      "code": "THR882",
+      "date": "2026-11-19",
+      "title": "DB 장애 근거 수집과 승인 기반 복구",
+      "topic": "데이터·DB 운영",
+      "kind": "공식 행사 녹화",
+      "sources": [
+        [
+          "공식 세션",
+          "https://ignite.microsoft.com/en-US/sessions/1787856579574001Ettf-1791588274282001CUNE"
+        ],
+        [
+          "공식 행사 다시보기",
+          "https://medius.microsoft.com/Embed/video-nc/4f0b46b4-8e3b-4539-adc3-8ae01a6d2835"
+        ]
+      ],
+      "session_url": "https://ignite.microsoft.com/en-US/sessions/1787856579574001Ettf-1791588274282001CUNE",
+      "path": "sessions/2026-11-19/THR882.md"
     }
   ],
   "previews": [
@@ -698,12 +744,6 @@
       "date": "2026-11-19",
       "title": "AI 사용료와 업무 성과 비교",
       "url": "https://ignite.microsoft.com/en-US/sessions/1787856612609001ExWS-1791588098847001C5fK"
-    },
-    {
-      "code": "BRK368",
-      "date": "2026-11-19",
-      "title": "운영 중인 PostgreSQL 여러 대 관리",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856629108001E3Up-1791588323549001CZ65"
     },
     {
       "code": "BRK422",
@@ -728,12 +768,6 @@
       "date": "2026-11-19",
       "title": "NeMo Switchyard 모델 라우팅 실습",
       "url": "https://ignite.microsoft.com/en-US/sessions/1790705492563001fJgg-1793034421191001mTOZ"
-    },
-    {
-      "code": "THR882",
-      "date": "2026-11-19",
-      "title": "DB 튜닝과 복구에 AI 적용",
-      "url": "https://ignite.microsoft.com/en-US/sessions/1787856579574001Ettf-1791588274282001CUNE"
     },
     {
       "code": "BRK443",

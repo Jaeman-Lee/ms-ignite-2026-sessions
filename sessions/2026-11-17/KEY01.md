@@ -17,6 +17,7 @@
 ## 공식 근거
 
 - [공식 세션](https://ignite.microsoft.com/en-US/sessions/1787856726055001EpP1-1789751960282001d6eI)
+- [Microsoft Events 공식 추가 게시본 · 11월 19일 16:08 PST](https://www.youtube.com/watch?v=-JSecnudwvY)
 - [Microsoft Events 공식 영상](https://www.youtube.com/watch?v=JaTSaJioHV8)
 - [BNY 공식 파일럿 발표](https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-and-microsoft-complete-first-agentic-negotiation-of-a-us-treasury-trade.html)
 - [Microsoft 공식 키노트 글](https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/)
